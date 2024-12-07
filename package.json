@@ -1,0 +1,28 @@
+{
+  "name": "@cubeking/react-native-background-task",
+  "version": "1.0.0",
+  "description": "React Native background task module for iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "background",
+    "task"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cubeking/react-native-background-task/issues"
+  },
+  "homepage": "https://github.com/cubeking/react-native-background-task#readme",
+  "peerDependencies": {
+    "react-native": ">=0.60.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cubeking/react-native-background-task.git"
+  }
+}
